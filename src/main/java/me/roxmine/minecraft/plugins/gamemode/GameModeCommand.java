@@ -47,4 +47,4 @@ public class GameModeCommand implements CommandExecutor {
         return false;
     }
 
-    }
+}
